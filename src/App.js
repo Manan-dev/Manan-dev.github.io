@@ -1,5 +1,10 @@
 import React from "react";
-import { Route, BrowserRouter as Router, Switch } from "react-router-dom";
+import {
+  Redirect,
+  Route,
+  BrowserRouter as Router,
+  Switch,
+} from "react-router-dom";
 
 import { BackToTop } from "./components";
 import { Main, ProjectPage } from "./pages";
@@ -15,6 +20,8 @@ function App() {
         <Switch>
           <Route path="/" exact component={Main} />
           <Route path="/projects" exact component={ProjectPage} />
+
+          <Redirect to="/" />
         </Switch>
       </Router>
       <BackToTop />
