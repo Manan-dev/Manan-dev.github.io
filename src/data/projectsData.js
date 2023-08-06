@@ -28,7 +28,7 @@ export const projectsData = [
   },
   {
     id: 3,
-    projectName: "Firebase Chat App",
+    projectName: "Buddy Chat",
     projectDesc:
       "This project is a web application that allows users to chat with each other in real time.",
     tags: ["React", "Firebase", "TailwindCSS"],
