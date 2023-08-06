@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/portfolio-website/static/css/main.b15af202.chunk.css",
-    "main.js": "/portfolio-website/static/js/main.56abf98f.chunk.js",
-    "main.js.map": "/portfolio-website/static/js/main.56abf98f.chunk.js.map",
+    "main.css": "/portfolio-website/static/css/main.d3aa2b33.chunk.css",
+    "main.js": "/portfolio-website/static/js/main.2f3918c5.chunk.js",
+    "main.js.map": "/portfolio-website/static/js/main.2f3918c5.chunk.js.map",
     "runtime-main.js": "/portfolio-website/static/js/runtime-main.fe5d0d7b.js",
     "runtime-main.js.map": "/portfolio-website/static/js/runtime-main.fe5d0d7b.js.map",
     "static/css/2.8428dcf0.chunk.css": "/portfolio-website/static/css/2.8428dcf0.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.cf46260b.chunk.js.map": "/portfolio-website/static/js/3.cf46260b.chunk.js.map",
     "index.html": "/portfolio-website/index.html",
     "static/css/2.8428dcf0.chunk.css.map": "/portfolio-website/static/css/2.8428dcf0.chunk.css.map",
-    "static/css/main.b15af202.chunk.css.map": "/portfolio-website/static/css/main.b15af202.chunk.css.map",
+    "static/css/main.d3aa2b33.chunk.css.map": "/portfolio-website/static/css/main.d3aa2b33.chunk.css.map",
     "static/js/2.d7e37328.chunk.js.LICENSE.txt": "/portfolio-website/static/js/2.d7e37328.chunk.js.LICENSE.txt",
     "static/media/index.css": "/portfolio-website/static/media/BestermindRegular.e58a1922.ttf",
     "static/media/adobe-xd.a6dca99d.svg": "/portfolio-website/static/media/adobe-xd.a6dca99d.svg",
@@ -147,7 +147,7 @@
     "static/js/runtime-main.fe5d0d7b.js",
     "static/css/2.8428dcf0.chunk.css",
     "static/js/2.d7e37328.chunk.js",
-    "static/css/main.b15af202.chunk.css",
-    "static/js/main.56abf98f.chunk.js"
+    "static/css/main.d3aa2b33.chunk.css",
+    "static/js/main.2f3918c5.chunk.js"
   ]
 }
